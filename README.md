@@ -1,2 +1,2 @@
 # SimpleMavenJunitWebApp
-Benjamin
+Benjamin Xaviour
